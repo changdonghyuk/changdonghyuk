@@ -13,7 +13,6 @@
 <span style="color:white">#Quick adaptability ,Concentration 🦸‍♂️</span>
 
 <span style="color:Pink">#return </span>
-
 <span style="color:white">positive 👨‍❤️ </span>
 
 
