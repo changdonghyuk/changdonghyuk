@@ -17,5 +17,5 @@
 ##
 
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Deep%20Jd%20use%20%20readme_special_repository&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Deep%20JD%20use%20%20readme_special_repository&fontSize=40&animation=twinkling)
 
