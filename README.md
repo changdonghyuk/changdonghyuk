@@ -1,15 +1,21 @@
-### Hi there 👋
 
 
-**changdonghyuk/changdonghyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=opportunity%20for%20self-growth&fontAlign=50&fontSize=40&fontAlignY=40&color=gradient)
 
-Here are some ideas to get you started:
+## #<span style="color:Aqua">Window(chang).</span><span style="color:white">DongHyuk.info</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<span style="color:white">#Start of a second life 🥈
+
+<span style="color:white">#latecomer trainee 💤
+
+<span style="color:white">#Alt character = Fishman 🐟 & sashimi,Sushi 🔪</span>
+
+<span style="color:white">Quick adaptability ,Concentration 🦸‍♂️</span>
+
+<span style="color:Pink">#return </span>
+<span style="color:white">positive 👨‍❤️ </span>
+##
+
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Deep%20Jd%20use%20%20readme_special_repository&fontSize=40&animation=twinkling)
+
