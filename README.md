@@ -1,8 +1,8 @@
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Opportunity%20for%20self-growth&fontAlign=50&fontSize=40&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
 
-## #<span style="color:Aqua">Window(chang).</span><span style="color:white">DongHyuk.Tags</span>
+## #<span style="color:Aqua">(chang).</span><span style="color:white">DongHyuk.Tags</span>
 
 <span style="color:white">#Start of a second life 🥈
 
@@ -15,8 +15,6 @@
 <span style="color:Pink">#return </span>
 <span style="color:white">positive 👨‍❤️ </span>
 
-
-![soft](https://capsule-render.vercel.app/api?type=soft&color=&text=Deep%20JD%20use%20%20readme_special_repository&fontSize=35&animation=twinkling)
 
 ### 🎓Training in progress or completion . . .
 
