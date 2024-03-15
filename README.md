@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&text_color=6580DD&fontSize=40&fontAlignY=40&color=gradient)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changdonghyuk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=black&icon_color=black&text_color=black&title_color=black&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -16,12 +16,11 @@
 
 <span style="color:white">#latecomer trainee 💤
 
-<span style="color:white">#Sub-account = Fishman 🐟 & Korean Style sashimi,Sushi 🔪</span>
+<span style="color:white">#Sub-account = Fishman 🐟 & K_Style sashimi,Sushi 🔪</span>
 
 <span style="color:white">#Quick adaptability ,Concentration 🦸‍♂️</span>
 
-<span style="color:Pink">#return </span>
-<span style="color:white">positive 👨‍❤️ </span>
+<span style="color:Pink">#return </span><span style="color:white">positive 👨‍❤️ </span>
 <br>
 -
 ### #<span style="color:light blue">(About Me Connection) </span>💨
