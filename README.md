@@ -1,3 +1,4 @@
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangdonghyuk&count_bg=%232500FF&title_bg=%233FD3ED&icon=github.svg&icon_color=%232500FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
@@ -13,7 +14,7 @@
 </a>
 
 
-## #<span style="color:Aqua">(windows).</span><span style="color:white">DongHyuk.Tags</span>
+## #<span style="color:Aqua">(Quick Info)</span><span style="color:white">DeepJD.Tags</span>
 
 <span style="color:white">#Start of a second life 🥈
 
@@ -25,11 +26,14 @@
 
 <span style="color:Pink">#return </span>
 <span style="color:white">positive 👨‍❤️ </span>
-
-### About Me Connection 💨
+<br>
+-
+### #<span style="color:Aqua">(About Me Connection) </span>💨
 [![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
-
-|🎓Training in progress or completion . . .|
+<br>
+<br>
+-
+|🎓🎓🎓*Training in progress or completion . . .*🎓🎓🎓 |
 |:----------------------------------------------:|
 ---
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_Academy-blue?style=flat)
@@ -64,5 +68,3 @@
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ---
-
-
