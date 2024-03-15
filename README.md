@@ -14,7 +14,7 @@
 </a>
 
 
-## #<span style="color:Aqua">(Quick Info)</span><span style="color:white">DeepJD.Tags</span>
+### #<span style="color:Aqua">(Quick Info)</span><span style="color:white">DeepJD.Tags</span>
 
 <span style="color:white">#Start of a second life 🥈
 
@@ -34,6 +34,8 @@
 ---
 |🎓🎓🎓 *Training in progress or completion . . .* 🎓🎓🎓 |
 |:----------------------------------------------:|
+<br>
+
 
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_Academy-blue?style=flat)
 
