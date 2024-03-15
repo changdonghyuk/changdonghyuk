@@ -56,13 +56,9 @@
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ---
+<br>
+<br>
+<br>
 
-
-
-
-
-
-
-## watch snake eating my github contributions
-
+### Eating Github contributions 🐍Creeping!!
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
