@@ -11,18 +11,18 @@
 </a>
 
 
-#<span style="color:lightblue">(Quick Info)</span><span style="color:white">DeepJD.Tags</span>
+<span style="color:lightblue">##Quick Info </span><span style="color:white">DeepJD.Tags</span>
 
-<span style="color:light blue">#Start of a second life 🥈
+<span style="color:white">#Start of a second life 🥈
 
-<span style="color:light blue">#latecomer trainee 💤
+<span style="color:white">#latecomer trainee 💤
 
-<span style="color:light blue">#Sub-account = Fishman 🐟 & Korean Style sashimi,Sushi 🔪</span>
+<span style="color:white">#Sub-account = Fishman 🐟 & Korean Style sashimi,Sushi 🔪</span>
 
-<span style="color:light blue">#Quick adaptability ,Concentration 🦸‍♂️</span>
+<span style="color:white">#Quick adaptability ,Concentration 🦸‍♂️</span>
 
 <span style="color:Pink">#return </span>
-<span style="color:light blue">positive 👨‍❤️ </span>
+<span style="color:white">positive 👨‍❤️ </span>
 <br>
 -
 ### #<span style="color:light blue">(About Me Connection) </span>💨
