@@ -32,8 +32,8 @@
 [![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
 <br>
 <br>
--
-|🎓🎓🎓*Training in progress or completion . . .*🎓🎓🎓 |
+---
+|🎓🎓🎓 *Training in progress or completion . . .* 🎓🎓🎓 |
 |:----------------------------------------------:|
 ---
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_Academy-blue?style=flat)
@@ -47,8 +47,6 @@
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 <br>
-
-
 ---
 
 ![React](https://img.shields.io/badge/[Seoul]_Cyber_University-Aqua?style=flat)
