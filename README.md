@@ -17,7 +17,7 @@
 <br>
 -
 
-<span style="color:light blue">**About Me Connection** </span>💨[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
+<span style="color:light blue">**About Me Connection** </span> 💨[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
 <br>
 <br>
 ---
