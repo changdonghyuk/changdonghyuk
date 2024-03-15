@@ -14,7 +14,7 @@
 
 <span style="color:white">#Start of a second life 🥈
 
-<span style="color:white">#latecomer trainee 💤
+<span style="color:white">#Late Students 💤
 
 <span style="color:white">#Sub-account = Fishman 🐟 & Korean Style sashimi,Sushi 🔪</span>
 
