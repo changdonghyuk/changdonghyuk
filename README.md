@@ -1,10 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangdonghyuk&count_bg=%232500FF&title_bg=%233FD3ED&icon=github.svg&icon_color=%232500FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangdonghyuk&count_bg=%236C13D9&title_bg=%231484CD&icon=&icon_color=%23DD1919&title=What+are+you+looking+at%3F&edge_flat=false"/></a>
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changdonghyuk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changdonghyuk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=&icon_color=&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
     </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=changdonghyuk&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
@@ -12,6 +11,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=changdonghyuk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
 
 ## #<span style="color:Aqua">(windows).</span><span style="color:white">DongHyuk.Tags</span>
 
@@ -27,9 +27,7 @@
 <span style="color:white">positive 👨‍❤️ </span>
 
 ### About Me 
-![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4logoColor=white)
-
-
+[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
 |🎓Training in progress or completion . . .|
 |:----------------------------------------------:|
 ---
@@ -65,3 +63,5 @@
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 =
+
+
