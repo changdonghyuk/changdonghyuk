@@ -8,10 +8,7 @@
     </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=changdonghyuk&show_icons=true&theme=material-palenight&hide_border=true&bg_color=whitea&icon_color=black&text_color=black&title_color=black&count_private=true" width=55.5% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=changdonghyuk&theme=react-dark&bg_color=white&hide_border=true&line=&color=58A6FF" width=94%/>
-</a>
+
 
 ## #<span style="color:Aqua">(Quick Info)</span><span style="color:white">DeepJD.Tags</span>
 
