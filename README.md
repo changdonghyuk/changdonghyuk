@@ -1,5 +1,4 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangdonghyuk&count_bg=%232500FF&title_bg=%233FD3ED&icon=github.svg&icon_color=%232500FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
 
@@ -11,18 +10,17 @@
 </a>
 
 
-<span style="color:lightblue">##Quick Info </span><span style="color:white">DeepJD.Tags</span>
+<span style="color:light blue">**Quick Info** </span><span style="color:white">**DeepJD.Tags**</span>
 
-<span style="color:white">#Start of a second life 🥈
+<span style="color:white">#**Start of a second life** 🥈
 
-<span style="color:white">#latecomer trainee 💤
+<span style="color:white">#**latecomer trainee** 💤
 
-<span style="color:white">#Sub-account = Fishman 🐟 & Korean Style sashimi,Sushi 🔪</span>
+<span style="color:white">#**Sub-account = Fishman 🐟 & K_Style sashimi 🔪**</span>
 
-<span style="color:white">#Quick adaptability ,Concentration 🦸‍♂️</span>
+<span style="color:white">#**Quick adaptability ,Concentration**🦸‍♂️</span>
 
-<span style="color:Pink">#return </span>
-<span style="color:white">positive 👨‍❤️ </span>
+<span style="color:Pink">#**return** </span> <span style="color:white">positive 👨‍❤️ </span>
 <br>
 -
 ### #<span style="color:light blue">(About Me Connection) </span>💨
