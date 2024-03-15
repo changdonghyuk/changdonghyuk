@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangdonghyuk&count_bg=%236C13D9&title_bg=%231484CD&icon=&icon_color=%23DD1919&title=What+are+you+looking+at%3F&edge_flat=false"/></a>
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&fontSize=40&fontAlignY=40&color=gradient)
 
-## #<span style="color:Aqua">(chang).</span><span style="color:white">DongHyuk.Tags</span>
+## #<span style="color:Aqua">(windows).</span><span style="color:white">DongHyuk.Tags</span>
 
 <span style="color:white">#Start of a second life 🥈
 
@@ -26,8 +26,14 @@
 <img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/> 
 <img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/> 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)  
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)](https://opencv.org/) ++
- 
+![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=Flat&logo=opencv&logoColor=white)
+![intel](https://img.shields.io/badge/OpenVINO-0071C5?style=flat&logo=intel&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
+![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+
+
+
+
 <br>
  
 ![React](https://img.shields.io/badge/[Seoul]_Cyber_University-Aqua?style=flat)
@@ -50,6 +56,8 @@
 <img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/> 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)](https://opencv.org/) 
+![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
+![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 <!--
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros)](https://index.ros.org/doc/ros2/)
