@@ -1,12 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Deep%20JD%20README_Special_Repository&text_color=6580DD&fontSize=40&fontAlignY=40&color=gradient)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changdonghyuk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=black&icon_color=black&text_color=black&title_color=black&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-    </a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=changdonghyuk&show_icons=true&theme=material-palenight&hide_border=true&bg_color=whitea&icon_color=black&text_color=black&title_color=black&count_private=true" width=55.5% />
-</a>
 
 <br>
 
@@ -21,12 +14,10 @@
 <span style="color:white">#Quick adaptability ,Concentration 🦸‍♂️</span>
 
 <span style="color:Pink">#return </span><span style="color:white">positive 👨‍❤️ </span>
-
 <br>
+-
 
-<span style="color: royalblue">**About Me Connection** </span>💨
-
-[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
+<span style="color:light blue">**About Me Connection** </span>💨[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
 <br>
 <br>
 ---
