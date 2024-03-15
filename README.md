@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 
 <br>
