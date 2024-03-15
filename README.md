@@ -26,8 +26,9 @@
 <span style="color:Pink">#return </span>
 <span style="color:white">positive 👨‍❤️ </span>
 
-### About Me 
+### About Me Connection 💨
 [![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
+
 |🎓Training in progress or completion . . .|
 |:----------------------------------------------:|
 ---
@@ -51,7 +52,7 @@
 <img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/MySql-lightblue?style=flat&logo=mysql&logoColor=black"/>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-=
+---
 ### Skills to Study 👍
 
 <img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/>   <img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/>
@@ -62,6 +63,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)](https://opencv.org/) 
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-=
+---
 
 
