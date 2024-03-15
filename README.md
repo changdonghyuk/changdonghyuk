@@ -35,7 +35,7 @@
 ---
 |🎓🎓🎓 *Training in progress or completion . . .* 🎓🎓🎓 |
 |:----------------------------------------------:|
----
+
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_Academy-blue?style=flat)
 
  <img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> 
