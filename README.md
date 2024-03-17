@@ -1,29 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=180&text=*DEEPJD's%20GITHUB_BOX*&fontSize=50&animation=twinkling&fontAlign=38&fontAlignY=36)
 
-
-<br>
-
-<span style="color:royalblue">**Quick Info** </span><span style="color:royalblue">**DeepJD.Tags**</span>
-
-<span style="color:white">#Start of a second life 🥈
-
-<span style="color:white">#Late Student 💤
-
-<span style="color:white">#Sub-account = Fishman 🐟 & K_Style sashimi,Sushi 🔪</span>
-
-<span style="color:white">#Quick adaptability , Fucus on 🦸‍♂️</span>
-
-<span style="color:Pink">#return </span><span style="color:white">positive 👨‍❤️ </span>
-<br>
--
-
-<span style="color:light blue">**About Me Connection** </span> 💨[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
-<br>
-<br>
----
-|🎓🎓🎓 *Training in progress or completion . . .* 🎓🎓🎓 |
+|*Quick Info DeepJD.Tags*|
 |:----------------------------------------------:|
 
+## #Start of a second life 🥈
+
+## #Late Student 💤
+
+## #Sub-account = Fishman 🐟 & K_Style sashimi,Sushi 🔪</span>
+
+## #Quick adaptability , Fucus on 🦸‍♂️</span>
+
+# <span style="color:PINK">#return positive 👨‍❤️ </span>
+---
+<br>
+
+|*Arcademic MEMO*|
+|:----------------------------------------------:|
+[![notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4) 
+<br>
+
+---
+
+<br>
+<br>
+
+|*Training in progress or completion*|
+|:----------------------------------------------:|
 <br>
 
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_Academy-blue?style=flat)
@@ -45,7 +48,9 @@
 <img src="https://img.shields.io/badge/MySql-lightblue?style=flat&logo=mysql&logoColor=black"/>
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 ---
-### Skills to Study 👍
+
+|*Skills to Study*|
+|:----------------------------------------------:|
 
 <img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/>   <img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> 
