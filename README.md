@@ -25,7 +25,6 @@
 ---
 
 <br>
-<br>
 
 |*Training in progress or completion*|
 |:----------------------------------------------:|
