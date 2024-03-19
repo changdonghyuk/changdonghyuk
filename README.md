@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=180&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=38&fontAlignY=36)
 
-|*Quick Info DeepJD.Tags*|
+|*Quick Info Tags##*|
 |:----------------------------------------------:|
+
+## Checkered Flag Portfolio Website ##( https://changdonghyuk.github.io ) 
 <br>
 
-## *Checkered Flag Portfolio Website*  『 https://changdonghyuk.github.io 』 🏁  
-<br>
+## Arcademic MEMO ## [![notion](https://img.shields.io/badge/notion-EF4223?style=for-the-badge&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4) 
 
-## *Arcademic MEMO* ┎ [![notion](https://img.shields.io/badge/notion-EF4223?style=for-the-badge&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)  ┒💨
 
-<br>
-
-# <span style="color:PINK">return positive 👨‍❤️ </span>
+|*return positive* 👨‍❤️ |
+|:--:|
 
 
 
