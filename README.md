@@ -4,11 +4,11 @@
 
 ## Checkered Flag  
 -------------
-### Portfolio Website # ( https://changdonghyuk.github.io ) 
+### Portfolio Website #( https://changdonghyuk.github.io ) 
 <br>
 
 
-### Arcademic MEMO # ( https://grizzled-opinion-a02.notion.site/e7ae2fc6f9104b328231272e87919e4f?pvs=4 )
+### Arcademic MEMO #( https://grizzled-opinion-a02.notion.site/e7ae2fc6f9104b328231272e87919e4f?pvs=4 )
 
 
 ---------------------------------------------------------------------
