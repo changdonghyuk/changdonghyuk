@@ -7,7 +7,7 @@
 ## *Checkered Flag Portfolio Website*  『 https://changdonghyuk.github.io 』 🏁  
 <br>
 
-## *Arcademic MEMO* 『  [![notion](https://img.shields.io/badge/notion-EF4223?style=for-the-badge&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)  』💨
+## *Arcademic MEMO* ┎ [![notion](https://img.shields.io/badge/notion-EF4223?style=for-the-badge&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)  ┒💨
 
 <br>
 
