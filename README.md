@@ -43,7 +43,8 @@
 <img src="https://img.shields.io/badge/MySql-lightblue?style=flat&logo=mysql&logoColor=black"/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv) ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow) ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 <br>
-<br>
+
+--------------
 
 ### Eating Github contributions 🐍Creeping!!
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
