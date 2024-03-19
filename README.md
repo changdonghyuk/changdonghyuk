@@ -4,21 +4,15 @@
 |:----------------------------------------------:|
 <br>
 
-## *Click Press*  [![Portfolio Website](https://img.shields.io/badge/PortfolioWebsite-000000?style=for-the-badge&logo=robotframework)](https://changdonghyuk.github.io)  
+## *Checkered Flag Portfolio Website*  『 https://changdonghyuk.github.io 』 🏁  
+<br>
+
+## *Arcademic MEMO* 『  [![notion](https://img.shields.io/badge/notion-EE8208?style=plastic&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)  』
+<br>
 
 # <span style="color:PINK">return positive 👨‍❤️ </span>
----
-<br>
 
 
-<center>
- *Arcademic MEMO*
-
-[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4)
-</center>
-<br>
-
----
 
 <br>
 
