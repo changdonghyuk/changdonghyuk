@@ -8,7 +8,7 @@
 <br>
 
 
-### Arcademic MEMO # ( https://grizzled-opinion-a02.notion.site/83fd0e2c128c4fc8b8d18473a55d5fd6?pvs=4 )
+### Arcademic MEMO # ( https://grizzled-opinion-a02.notion.site/e7ae2fc6f9104b328231272e87919e4f?pvs=4 )
 
 
 ---------------------------------------------------------------------
