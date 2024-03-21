@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&text=DEEPJD's%20GITHUB_BOX&fontSize=80&animation=twinkling&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=50&text=DEEPJD's%20GITHUB_BOX&fontSize=20&animation=twinkling&fontAlign=50&fontAlignY=50)
 
 ### Checkered Flag
 
