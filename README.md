@@ -6,7 +6,7 @@
 
 <br>
 
-## Training in progress or completion
+### Training in progress or completion
 
 <br>
 
