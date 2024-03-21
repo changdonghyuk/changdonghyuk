@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=180&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=38&fontAlignY=36)
 
-## Checkered Flag ⬇️👆
+## Checkered Flag
 
- Portfolio Website #(https://changdonghyuk.github.io) 
+ Portfolio Website ⬇️👆(https://changdonghyuk.github.io) 
 
 <br>
 
@@ -26,10 +26,10 @@ _Computer Engineer
 
 <br>
 
---------------
 
 ### Eating Github contributions 🐍Creeping!!
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
+<br>
 
 |*return positive* 👨‍❤️ |
 |:--:|
