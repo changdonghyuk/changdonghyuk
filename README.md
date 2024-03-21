@@ -22,14 +22,10 @@
 
 ### intel_Edge_AI_S/W_Academy 
 
-<img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/> ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) 
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) <img src="https://img.shields.io/badge/arm Keil-darkgreen?style=flat&logo=armkeil&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-white?style=flat&logo=stmicroelectronics&logoColor=03234B"/> 
- <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=Flat&logo=opencv&logoColor=white) ![intel](https://img.shields.io/badge/OpenVINO-0071C5?style=flat&logo=intel&logoColor=white) ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=yellow)
 <br>
 
 ### Seoul_Cyber_University
 
-<img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/MySql-lightblue?style=flat&logo=mysql&logoColor=black"/> [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 <br>
 
 ### Skills to Study
