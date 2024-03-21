@@ -20,11 +20,11 @@
 
 <br>
 
-### intel_Edge_AI_S/W_Academy 
+intel_Edge_AI_S/W_Academy 
 
 <br>
 
-### Seoul_Cyber_University
+Seoul_Cyber_University
 
 <br>
 
