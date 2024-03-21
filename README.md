@@ -38,6 +38,7 @@ _Computer Engineer
 |*return positive* 👨‍❤️ |
 |:--:|
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=80&section=footer&text=&fontSize=" width="100%"/>
 
 </div>
 
