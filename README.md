@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&text=DEEPJD's%20GITHUB_BOX&fontSize=80&animation=twinkling&fontAlign=50&fontAlignY=40)
 
 ### Checkered Flag
@@ -30,6 +32,9 @@ _Computer Engineer
 ### Eating Github contributions 🐍Creeping!!
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
 <br>
+<br>
 
 |*return positive* 👨‍❤️ |
 |:--:|
+
+</div>
