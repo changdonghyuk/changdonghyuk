@@ -23,8 +23,8 @@ _Computer Engineer
 
 ### Skills to Study
 
-<img src="https://img.shields.io/badge/C -gold?style=flat&logo=C&logoColor=black"/>  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> 
-<img src="https://img.shields.io/badge/MySql-lightblue?style=flat&logo=mysql&logoColor=black"/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+
+<img src="https://img.shields.io/badge/C -1F36C7?style=for-the-badge&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/MySql-lightblue?style=for-the-badge&logo=mysql&logoColor=black"/> ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=yellow) ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
