@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=180&text=DEEPJD's%20GITHUB_BOX&fontSize=50&animation=twinkling&fontAlign=38&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&text=DEEPJD's%20GITHUB_BOX&fontSize=80&animation=twinkling&fontAlign=50&fontAlignY=40)
 
-## Checkered Flag
+### Checkered Flag
 
  Portfolio Website ⬇️👆(https://changdonghyuk.github.io) 
 
