@@ -30,7 +30,7 @@ _Computer Engineer
 <br>
 
 
-### Eating Github contributions 🐍Creeping~
+### Eating Github contributions 🐍
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
 <br>
 <br>
