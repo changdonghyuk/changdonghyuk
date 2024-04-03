@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=80&text=DEEPJD's%20GITHUB_BOX&fontSize=70&animation=twinkling&fontAlign=50&fontAlignY=110" width="90%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=80&section=footer&text=DEEPJD's%20GITHUB_BOX&fontSize=70&animation=twinkling&fontAlign=50&fontAlignY=10.5" width="90%"/>
 
-### New Update Checkered Flag
+### Growth process Checkered Flag
 
 
 <br>
@@ -27,14 +27,18 @@ _Computer Engineer
 
 <br>
 
+|*return positive* 👨‍❤️ |
+|:--:|
+
+<br>
+
 
 ### Eating Github contributions 🐍
 <img src="https://github.com/changdonghyuk/changdonghyuk/blob/output/github-snake-dark.svg">
 <br>
 <br>
 
-|*return positive* 👨‍❤️ |
-|:--:|
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=80&section=footer&text=&fontSize=" width="100%"/>
 
