@@ -6,8 +6,6 @@
 ## Growing Up Checkered Flag _ Repository
 
 
-<br>
-
 ### Training in progress or completion
 
 <br>
