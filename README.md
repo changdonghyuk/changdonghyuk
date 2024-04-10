@@ -8,14 +8,6 @@
 
 ### Training in progress or completion
 
-<br>
-
-intel_Edge_AI_S/W_Academy 2023~2024
-
-<br>
-
-Seoul_Cyber_University 2024~2027  
-
 
 <br>
 
@@ -25,8 +17,8 @@ Seoul_Cyber_University 2024~2027
 
 <br>
 
-|*return positive* 👨‍❤️ |
-|:--:|
+### return positive 👨‍❤️ 
+
 
 <br>
 
